@@ -29,3 +29,8 @@ Analysis | Machine Learning | Computer Vision | Natural Language Processing | Ot
 ![Data Science](https://github.com/wbgreen0405/portfolio/blob/master/images/Data%20Science.PNG)
 
 
+
+
+![Udacity Deep Learning Foundation](https://github.com/wbgreen0405/portfolio/blob/master/images/Udacity%20Deep%20Learning%20Foundation.PNG)
+
+

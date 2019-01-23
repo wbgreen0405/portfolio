@@ -25,6 +25,6 @@ Analysis | Machine Learning | Computer Vision | Other
 
 
 
-![Data Science] (https://github.com/wbgreen0405/portfolio/blob/master/images/Data%20Science.PNG)
+![Data Science](https://github.com/wbgreen0405/portfolio/blob/master/images/Data%20Science.PNG)
 
 

@@ -18,5 +18,5 @@ Analysis | Machine Learning | Computer Vision | Other
 
 
 ## Acquired certificates
-[![Deep Learning Specialization](images/coursera_math_for_ml.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/LTFYJFTVZDMK)
+[![Deep Learning Specialization](images/Deep Learning Specialization.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/LTFYJFTVZDMK)
 [![Data Workshop](images/dataworkshop.png)](images/dataworkshop.png)
